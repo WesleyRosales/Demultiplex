@@ -1,0 +1,28 @@
+Total read-pairs: 363246735
+Percentage B1 dual-matched barcodes: 1.8766128758184157% of total read-pairs (raw count: 6816735
+Percentage A5 dual-matched barcodes: 1.3359076716821694% of total read-pairs (raw count: 4852641
+Percentage C1 dual-matched barcodes: 1.5304847819210268% of total read-pairs (raw count: 5559436
+Percentage B9 dual-matched barcodes: 2.066329378019048% of total read-pairs (raw count: 7505874
+Percentage C9 dual-matched barcodes: 2.4369909339997236% of total read-pairs (raw count: 8852290
+Percentage C3 dual-matched barcodes: 0.9966963639742006% of total read-pairs (raw count: 3620467
+Percentage B3 dual-matched barcodes: 8.049049910937258% of total read-pairs (raw count: 29237911
+Percentage C4 dual-matched barcodes: 16.719122609594827% of total read-pairs (raw count: 60731667
+Percentage A11 dual-matched barcodes: 4.154604445377878% of total read-pairs (raw count: 15091465
+Percentage C7 dual-matched barcodes: 0.9023723227684345% of total read-pairs (raw count: 3277838
+Percentage B2 dual-matched barcodes: 1.5511932956534351% of total read-pairs (raw count: 5634659
+Percentage A1 dual-matched barcodes: 1.8977599344423564% of total read-pairs (raw count: 6893551
+Percentage B7 dual-matched barcodes: 2.538184410659603% of total read-pairs (raw count: 9219872
+Percentage A3 dual-matched barcodes: 3.7381632624997994% of total read-pairs (raw count: 13578756
+Percentage B4 dual-matched barcodes: 2.028989744395087% of total read-pairs (raw count: 7370239
+Percentage A12 dual-matched barcodes: 0.8743750993384704% of total read-pairs (raw count: 3176139
+Percentage C10 dual-matched barcodes: 9.721313530870415% of total read-pairs (raw count: 35312354
+Percentage A2 dual-matched barcodes: 2.317765636627126% of total read-pairs (raw count: 8419208
+Percentage C2 dual-matched barcodes: 1.5794402116236503% of total read-pairs (raw count: 5737265
+Percentage A10 dual-matched barcodes: 2.562235280655723% of total read-pairs (raw count: 9307236
+Percentage B8 dual-matched barcodes: 1.007438649104444% of total read-pairs (raw count: 3659488
+Percentage A7 dual-matched barcodes: 0.8616699610527814% of total read-pairs (raw count: 3129988
+Percentage B10 dual-matched barcodes: 2.5677406295200425% of total read-pairs (raw count: 9327234
+Percentage A8 dual-matched barcodes: 2.0074203832830047% of total read-pairs (raw count: 7291889
+Index swapped read-pairs: 432046
+Poor quality index read-pairs: 89210487
+Missed read-pairs: 0
